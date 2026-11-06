@@ -4,7 +4,7 @@
 
 - **MSSV:** 2A202603625
 - **Họ và tên:** Trần Quốc Tuấn Khanh
-- **SEED** (in ở ô đầu notebook):
+- **SEED** (in ở ô đầu notebook): 5970
 
 ## 1. Bằng chứng
 
